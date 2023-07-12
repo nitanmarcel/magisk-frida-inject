@@ -1,6 +1,6 @@
-id=example_module
-name=Example module
-author=HuskyDG
+id=magisk-frida-inject
+name=Magisk Frida Inject
+author=nitanmarcel
 version=1.0
 versionCode=1
-description=module that add some stuff
+description=Magisk module installing frida-inject with optional functionality to auto inject scripts at app startup
